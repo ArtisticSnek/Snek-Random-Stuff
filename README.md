@@ -1,2 +1,2 @@
-# Snek-Random-Crap
+# Snek-Random-Stuff
 My random projects for pi pico
